@@ -1,5 +1,8 @@
 
+![](images/logo.png)
+
 # 中国科学技术大学课程资源
+
 [![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
 [![Forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg?label=Forks&style=social)](https://github.com/USTC-Resource/USTC-Course/network/members)
 [![Build](https://travis-ci.org/USTC-Resource/USTC-Course.svg?branch=master)](https://travis-ci.org/USTC-Resource/USTC-Course?branch=master)
@@ -26,7 +29,7 @@
 
 # 反馈方式
 - [issue](https://github.com/USTC-Resource/USTC-Course/issues/new)
-- <a href="mailto:&#122;huheqin1@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
+- <a href="mailto:&#122;huheqin1@gmail.com?subject=USTC-Course-FeedBack">email</a>
 
 # 资料下载
 [戳我(●'◡'●)](https://ustc-resource.github.io/USTC-Course)
@@ -76,7 +79,7 @@ course
 └ README.md
 ```
 # 课程关系
-![](https://user-images.githubusercontent.com/29198767/53245024-851b1280-36e7-11e9-9d22-7ee65446c68a.png)
+![](images/course.png)
 
 更多信息可以下载[官网的培养方案](https://www.teach.ustc.edu.cn/education/241.html/attachment/14-215%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E9%99%A2-2013)
 
@@ -88,12 +91,16 @@ course
     * [操作系统原理与设计](./操作系统原理与设计)
     * [c程序设计](./c程序设计)
     * [代数结构](./代数结构)
-    * [大学物理实验](./大学物理实验)
+    * [概率论与数理统计](./概率论与数理统计)
     * [光学与原子物理](./光学与原子物理)
+    * [images](./images)
+    * [Java软件开发基础](./Java软件开发基础)
+    * [计算方法](./计算方法)
+    * [计算机图像学](./计算机图像学)
     * [计算机网络](./计算机网络)
     * [计算机系统详解](./计算机系统详解)
-    * [计算机与信息类](./计算机与信息类)
     * [计算机组成原理](./计算机组成原理)
+    * [马克思主义基本原理概论](./马克思主义基本原理概论)
     * [模拟与数字电路](./模拟与数字电路)
     * [数据结构](./数据结构)
     * [数理方程](./数理方程)
@@ -103,20 +110,17 @@ course
     * [utils](./utils)
     * [Web-信息处理与应用](./Web-信息处理与应用)
     * [微机原理与系统](./微机原理与系统)
+    * [自然语言处理](./自然语言处理)
 
 # 贡献投稿
-[这里是](https://github.com/USTC-Resource/USTC-Course/graphs/contributors) GitHub commit 贡献名单
-内容创作者包括：
+>感谢您的贡献~
 
-- mbinary
-- Lyncien
-- kingzevin
-- ksqsf
-- cclauss
-- 吴颖文
-- 童世炜
 
-如果遗漏了你的名字，可自行 PR 或者联系贡献者。
+## [GitHub Commit](https://github.com/USTC-Resource/USTC-Course/graphs/contributors)
+[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/0)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/0)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/1)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/1)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/2)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/2)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/3)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/3)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/4)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/4)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/5)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/5)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/6)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/6)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/7)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/7)[![](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/images/8)](https://sourcerer.io/fame/mbinary/USTC-Resource/USTC-Course/links/8)
+
+## 内容创作者
+在对应文件内容或者文件名中标明。若有疏漏，请修改后 pull request 或者提出 issue.
 
 欢迎大家的参与与贡献^_^
 * 仅接受学生原创的或者获得授权的资源
